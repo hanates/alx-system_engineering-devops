@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync --ignore-existing --update --include='*.html'
+rsync --update --include='*.html'
