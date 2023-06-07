@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync --update --include='*.html'
+cp -u --no-clobber --recursive --verbose *.html ../
