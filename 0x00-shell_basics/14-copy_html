@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u --recursive --verbose *.html ../
+cp -u *.html ../
