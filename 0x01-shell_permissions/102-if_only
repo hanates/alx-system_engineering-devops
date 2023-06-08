@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty:$(id -un guillaume) hello
+chown betty:$(id -un guillaume) hello
