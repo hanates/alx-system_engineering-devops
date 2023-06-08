@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty:$(id -un guillaume) hello
+chown --from=guillaume betty * -R
