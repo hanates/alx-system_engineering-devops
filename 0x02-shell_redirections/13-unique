@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u
+tr '[:space:]' '\n' | uniq -u
