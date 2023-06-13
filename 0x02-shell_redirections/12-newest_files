@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | awk '{print}'
+ls -t | head -n 10
